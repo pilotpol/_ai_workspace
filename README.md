@@ -1,5 +1,6 @@
 # pilot-ai-workshop
-> The coding workshop that use for my Life Coach Project\
+> The coding workshop that use for my Life Coach Project
+<br/>
 
 ## การติดตั้งเริ่มต้น สำหรับ Python
 1. Python 3.10+ จาก Link นี้ [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -16,8 +17,8 @@ pip install uv
 ```
 pip install openai
 ```
-\
-\
+
+<br/>
 ## การติดตั้งเริ่มต้น สำหรับ Typescript
 1. Node.js 18+ จาก Link นี้ [https://nodejs.org/en/download](https://nodejs.org/en/download)
 2. Check ดูว่า Node.js และ npm ได้ติดตั้งสำเร็จหรือไม่
@@ -33,5 +34,4 @@ npm install -g pnpm
 ```
 pnpm add openai
 ```
-\
-\
+<br/>
