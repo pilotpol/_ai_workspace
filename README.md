@@ -19,6 +19,7 @@ pip install openai
 ```
 
 <br/>
+
 ## การติดตั้งเริ่มต้น สำหรับ Typescript
 1. Node.js 18+ จาก Link นี้ [https://nodejs.org/en/download](https://nodejs.org/en/download)
 2. Check ดูว่า Node.js และ npm ได้ติดตั้งสำเร็จหรือไม่
